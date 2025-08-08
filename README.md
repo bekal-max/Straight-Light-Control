@@ -1,1 +1,1 @@
-# Authomatic striaght light controller system
+# Authomatic striaght light controller system usin Arduino UNO
